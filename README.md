@@ -16,7 +16,7 @@
   ---
 
   ## 📈 Моя статистика:
-  <img src="https://github-readme-stats.vercel.app/api?username=mizoil&show_icons=true&count_private=true&hide_title=true&hide=prs" alt="Mizolixx's GitHub stats" width="100%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mizoil&show_icons=true&count_private=true&hide_title=true&hide=prs&bg_color=000000&title_color=00aaff&text_color=00aaff&icon_color=00aaff" alt="Mizolixx's GitHub stats" width="100%" />
 
   ---
 
